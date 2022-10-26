@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darti0n
-- 👀 I’m interested in web development!
+- 👀 I’m interested in mobile app development!
 - 🌱 I’m currently using Flutter to build mobile applications.
 - 💞️ I’m looking to collaborate on anything related to Flutter!
 - 📫 How to reach me? Email: darshansagar.d27@gmail.com
